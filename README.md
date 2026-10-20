@@ -5,11 +5,17 @@ cada sección tiene un enlace que filtra los repos por su tema.
 
 ## Proyectos propios
 
+- [**Port-Manager**](https://github.com/StevenCarrilloLoor/Port-Manager) — Ver y administrar puertos TCP/UDP, procesos y servicios de Windows (WPF, .NET 9)
+- [**Administrador-Movil**](https://github.com/StevenCarrilloLoor/Administrador-Movil) — Herramienta para llevar apps Android a Google Play: requisitos verificados, firma sin exponer contraseñas, revisión de AAB, pruebas en emulador y publicación por API
+- [**Buscador-Bluetooth-Geiger**](https://github.com/StevenCarrilloLoor/Buscador-Bluetooth-Geiger) — Baliza: app Android (Kotlin + Compose) para encontrar dispositivos Bluetooth con guía tipo contador Geiger y administrar la red WiFi
 - [**Administrador-de-Conexiones-LAN**](https://github.com/StevenCarrilloLoor/Administrador-de-Conexiones-LAN) — Administrador de red local para Windows: escaneo ARP, inventario, reglas, alertas y panel web.
 - [**WebP-Forge**](https://github.com/StevenCarrilloLoor/WebP-Forge) — Conversor y analizador de imagenes y video a WebP/GIF, como app web y de escritorio Electron.
 
 ## Juegos
 
+- [**juego-darkest-gestor-de-mods**](https://github.com/StevenCarrilloLoor/juego-darkest-gestor-de-mods) — Gestor de mods de Darkest Dungeon 1: detecta conflictos, ordena la carga y reescribe las partidas byte a byte (WPF, .NET 9)
+- [**juego-darkest-visor-de-animaciones**](https://github.com/StevenCarrilloLoor/juego-darkest-visor-de-animaciones) — Visor de animaciones Spine 2.1 de Darkest Dungeon 1: reproduce, inspecciona y exporta a PNG o GIF (WPF, .NET 9)
+- [**juego-barotrauma-lan**](https://github.com/StevenCarrilloLoor/juego-barotrauma-lan) — Jugar a Barotrauma por red local o VPN (ZeroTier, Radmin, Hamachi, Tailscale) con el servidor dedicado, con y sin Steam
 - [**juego-look-outside-traductor**](https://github.com/StevenCarrilloLoor/juego-look-outside-traductor) — Script que extrae los dialogos de Troops.json de Look Outside y genera el diccionario para traducirlos.
 - [**juego-look-outside-datos-es**](https://github.com/StevenCarrilloLoor/juego-look-outside-datos-es) — Traduccion al espanol de Look Outside (RPG Maker): JSON del juego y scripts Python de traduccion.
 
